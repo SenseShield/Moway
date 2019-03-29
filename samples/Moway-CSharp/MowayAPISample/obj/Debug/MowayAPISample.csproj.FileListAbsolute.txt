@@ -1,0 +1,5 @@
+E:\moway\branches\samples\CSharp\MowayAPISample\MowayAPISample\bin\Debug\MowayAPISample.exe.config
+E:\moway\branches\samples\CSharp\MowayAPISample\MowayAPISample\bin\Debug\MowayAPISample.exe
+E:\moway\branches\samples\CSharp\MowayAPISample\MowayAPISample\bin\Debug\MowayAPISample.pdb
+E:\moway\branches\samples\CSharp\MowayAPISample\MowayAPISample\obj\Debug\MowayAPISample.exe
+E:\moway\branches\samples\CSharp\MowayAPISample\MowayAPISample\obj\Debug\MowayAPISample.pdb
